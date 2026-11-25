@@ -10,4 +10,4 @@ Arduino project for controlling a LED using a push button
 - push button
 
 # Assembly Diagram:
-![Schéma de montage](images/Plan.png)
+![Schéma de montage](Plan.png)
